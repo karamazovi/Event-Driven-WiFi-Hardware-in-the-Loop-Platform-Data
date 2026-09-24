@@ -5,6 +5,9 @@ This repository holds the measurement data, analysis scripts and ESP32 firmware 
 All data were recorded on 2026-09-23/24. Every number in the article's tables can be recomputed
 from the files below.
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.22945445 (version 2, 2026-09-24).
+The previous release (v1.0, June 2026) is https://doi.org/10.5281/zenodo.20751824.
+
 ## Layout
 
 | Path | Content |
