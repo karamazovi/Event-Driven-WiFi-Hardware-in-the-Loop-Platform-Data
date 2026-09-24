@@ -1,0 +1,1 @@
+{"tag": "D_po_P3_r5", "cond": "D", "algo": "po", "profile": "P3", "rep": 5, "delay_ms": 0.0, "t_sim_s": 10.0, "eta_pct": 97.99495368005992, "eta_tick_pct": 97.99642409394502, "t_settle_ms": 80.9999999998623, "sigma_ss_pct": 3.397334280093895, "n_req": 351, "n_fail": 0, "rtt_mean_ms": 28.0, "rtt_p50_ms": 28.0, "rtt_p99_ms": 28.0, "timeout_s": 0.5, "wall_s": 968.89599609375}

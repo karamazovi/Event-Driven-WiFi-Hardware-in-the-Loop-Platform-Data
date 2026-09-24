@@ -1,0 +1,1 @@
+{"tag": "D_pso_P1_r5", "cond": "D", "algo": "pso", "profile": "P1", "rep": 5, "delay_ms": 0.0, "t_sim_s": 10.0, "eta_pct": 95.84114955864545, "eta_tick_pct": 95.84234477704486, "t_settle_ms": NaN, "sigma_ss_pct": 0.9939841544732265, "n_req": 351, "n_fail": 0, "rtt_mean_ms": 28.0, "rtt_p50_ms": 28.0, "rtt_p99_ms": 28.0, "timeout_s": 0.5, "wall_s": 1012.8973872661591}

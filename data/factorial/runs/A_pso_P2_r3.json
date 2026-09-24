@@ -1,0 +1,1 @@
+{"tag": "A_pso_P2_r3", "cond": "A", "algo": "pso", "profile": "P2", "rep": 3, "delay_ms": 0.0, "t_sim_s": 10.0, "eta_pct": 94.47422148659173, "eta_tick_pct": 94.47654105564934, "t_settle_ms": 2.499999999836078, "sigma_ss_pct": 19.517337393819812, "n_req": 20000, "n_fail": 0, "rtt_mean_ms": 0.0, "rtt_p50_ms": 0.0, "rtt_p99_ms": 0.0, "timeout_s": 0.5, "wall_s": 893.8009626865387}

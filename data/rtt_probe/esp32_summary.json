@@ -1,0 +1,32 @@
+{
+  "po": {
+    "n": 1000,
+    "n_ok": 996,
+    "n_lost": 4,
+    "vref_checked": 1000,
+    "vref_mismatches": 0,
+    "rtt_mean_ms": 94.72762068286234,
+    "rtt_std_ms": 371.3855009824343,
+    "rtt_p50_ms": 38.01469999962137,
+    "rtt_p99_ms": 2353.963070002243,
+    "t_us_mean": 36.81526104417671,
+    "t_loc_us_mean": 843.8995983935743,
+    "heap_min_B": 178296,
+    "heap_max_B": 183684
+  },
+  "pso": {
+    "n": 1000,
+    "n_ok": 1000,
+    "n_lost": 0,
+    "vref_checked": 4,
+    "vref_mismatches": 0,
+    "rtt_mean_ms": 116.23345670010167,
+    "rtt_std_ms": 448.25420106055316,
+    "rtt_p50_ms": 42.14784999930998,
+    "rtt_p99_ms": 3155.3157040013316,
+    "t_us_mean": 34.013,
+    "t_loc_us_mean": 853.144,
+    "heap_min_B": 175956,
+    "heap_max_B": 180540
+  }
+}
